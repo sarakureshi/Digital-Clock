@@ -22,7 +22,3 @@ A simple *Digital Clock* web app built with *HTML, CSS, and JavaScript*.
 ## 📷 Screenshot
 ![Digital Clock Screenshot](screenshots/clock.png)
 
-## 🛠️ How to Run
-1. Clone or download this repository
-2. Open index.html in any browser
-3. You’ll see the live clock!
