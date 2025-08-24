@@ -1,4 +1,4 @@
-# Digital-Clock
+# Digital-Clock ( mini project)
 A simple digital clock using HTML, CSS, JavaScript
 
 ###Project Structure
